@@ -1,0 +1,5 @@
+C:\Users\17144\Desktop\repos\UdemyLinqCoursePractice\UdemyLinqCoursePractice\obj\Debug\net6.0\UdemyLinqCoursePractice.csproj.AssemblyReference.cache
+C:\Users\17144\Desktop\repos\UdemyLinqCoursePractice\UdemyLinqCoursePractice\obj\Debug\net6.0\UdemyLinqCoursePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17144\Desktop\repos\UdemyLinqCoursePractice\UdemyLinqCoursePractice\obj\Debug\net6.0\UdemyLinqCoursePractice.AssemblyInfoInputs.cache
+C:\Users\17144\Desktop\repos\UdemyLinqCoursePractice\UdemyLinqCoursePractice\obj\Debug\net6.0\UdemyLinqCoursePractice.AssemblyInfo.cs
+C:\Users\17144\Desktop\repos\UdemyLinqCoursePractice\UdemyLinqCoursePractice\obj\Debug\net6.0\UdemyLinqCoursePractice.csproj.CoreCompileInputs.cache
